@@ -30,7 +30,7 @@
 
 | Versión | Fecha | Autor | Descripción de Cambios |
 |---------|-------|-------|------------------------|
-| 1.0 | [DD/MM/AAAA] | [Nombre] | Versión inicial del documento |
+| 1.0 | [01/10/2025] | [Julian Roa] | Versión inicial del documento |
 | | | | |
 
 <br>
